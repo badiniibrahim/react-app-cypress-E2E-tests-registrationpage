@@ -16,7 +16,6 @@ module.exports = {
     'plugin:import/typescript',
     'plugin:@typescript-eslint/recommended',
     'plugin:jest/recommended',
-    "plugin:storybook/recommended"
   ],
   settings: {
     react: {
@@ -57,6 +56,7 @@ module.exports = {
     'import/extensions': 0,
     'import/no-unresolved': 0,
     'import/prefer-default-export': 0,
+    "arrow-body-style": "off",
 
     'react/function-component-definition': [
       2,
@@ -77,7 +77,7 @@ module.exports = {
   },
   parserOptions: {
     sourceType: 'module',
-    project: './tsconfig.json',
+   // project: './tsconfig.json',
     ecmaFeatures: {
       jsx: true,
     },
