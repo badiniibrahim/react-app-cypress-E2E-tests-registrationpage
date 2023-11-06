@@ -1,4 +1,4 @@
-# Getting Started React App with Typescript, Redux Toolkit, Redux Saga, React Hook Form
+# Getting Started React App with Cypress, Typescript, React Hook Form
 
 The repository is dedicated to Cypress testing with a React, Typescript, React Hook Form to demonstrate my understanding of this library
 
