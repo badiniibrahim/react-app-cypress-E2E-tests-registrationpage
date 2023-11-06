@@ -20,6 +20,9 @@ The repository is dedicated to Cypress testing with a React, Typescript, React H
 ![license](https://img.shields.io/github/license/rbiedrawa/kafka-monitoring)
 </div>
 
+## Demo
+![demo.gif](./gif/demo.gif)
+
 ## Technologies
 - React.js
 - Beautiful layouts with TailwindCSS
