@@ -13,6 +13,7 @@ The repository is dedicated to Cypress testing with a React, Typescript, React H
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
 ## About this Repository
+
 ![GitHub language count](https://img.shields.io/github/languages/count/react-app-cypress-tests-registration-page)
 ![GitHub top language](https://img.shields.io/github/languages/top/react-app-cypress-tests-registration-page)
 ![GitHub last commit](https://img.shields.io/github/last-commit/react-app-cypress-tests-registration-page)
